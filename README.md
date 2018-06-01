@@ -1,3 +1,3 @@
 #
 
-![](https://goo.gl/images/LHxtx9?raw=true)
+![](http://scikit-learn.org/stable/_images/sphx_glr_plot_iris_001.png?raw=true)
